@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-7\ASSIGNMENT(day-7)\FileHandlingDMS\FileHandlingDMS\bin\Debug\FileHandlingDMS.exe.config
+C:\mphasis-B2\Day-7\ASSIGNMENT(day-7)\FileHandlingDMS\FileHandlingDMS\bin\Debug\FileHandlingDMS.exe
+C:\mphasis-B2\Day-7\ASSIGNMENT(day-7)\FileHandlingDMS\FileHandlingDMS\bin\Debug\FileHandlingDMS.pdb
+C:\mphasis-B2\Day-7\ASSIGNMENT(day-7)\FileHandlingDMS\FileHandlingDMS\obj\Debug\FileHandlingDMS.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-7\ASSIGNMENT(day-7)\FileHandlingDMS\FileHandlingDMS\obj\Debug\FileHandlingDMS.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-7\ASSIGNMENT(day-7)\FileHandlingDMS\FileHandlingDMS\obj\Debug\FileHandlingDMS.exe
+C:\mphasis-B2\Day-7\ASSIGNMENT(day-7)\FileHandlingDMS\FileHandlingDMS\obj\Debug\FileHandlingDMS.pdb
